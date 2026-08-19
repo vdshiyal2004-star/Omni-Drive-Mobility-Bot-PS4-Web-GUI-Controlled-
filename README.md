@@ -82,7 +82,7 @@ The left stick is the main control — it goes through the velocity equations ab
 omnidrive/
 ├── firmware/
 │   └── omni_drive_ps4.ino   # PS4 controller firmware for ESP32
-├── docs/                     # (optional) fuller write-up, kinematics derivation, circuit diagram
+├── docs/project-report.pdf                  
 └── README.md
 ```
 
